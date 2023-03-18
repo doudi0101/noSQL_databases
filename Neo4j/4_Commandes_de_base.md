@@ -1,4 +1,4 @@
-# 3.Commandes de base
+# 4.Commandes de base
 
 - Exécuter la commande ```:help commands```  pour afficher toutes les commandes d'aide.
 
