@@ -1,4 +1,4 @@
-# 0. Se connecter à Neo4j Sandbox
+# 1. Se connecter à Neo4j Sandbox
 
 - Se rendre sur https://sandbox.neo4j.com/  
 
