@@ -1,4 +1,4 @@
-# 1.Créer un projet
+# 2.Créer un projet
 
 - A partir de cette page d'accueil, choisir "Movies"
 
