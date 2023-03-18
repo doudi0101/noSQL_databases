@@ -50,7 +50,9 @@ MATCH (actor:Person)-[role:ACTED_IN]->(movie:Movie)WHERE movie.title="The Matrix
 
 ![image](https://user-images.githubusercontent.com/73080397/226098231-e3ec48b4-2ae5-44a3-a680-d0e0942036bd.png)
 
-
+```cypher
+MATCH (movie:Movie) RETURN movie.title, movie.released
+```
 
 
 
