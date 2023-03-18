@@ -1,4 +1,4 @@
-# 2.Découvrir Neo4j Sandbox Browser
+# 3.Découvrir Neo4j Sandbox Browser
 
 
 - Dans la page du Browser, vous trouverez des cellules de code ,
